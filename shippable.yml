@@ -1,7 +1,7 @@
 language: node_js
 
 node_js:
-  - "0.10.29"
+  - "0.10"
 
 addons:
   #firefox: "23.0"
@@ -10,9 +10,9 @@ addons:
   #firefox: "19.0"
   #firefox: "20.0"
   #firefox: "21.0"
-  firefox: "22.0"
-# firefox: "23.0"
-#firefox: "24.0"
+  #firefox: "22.0"
+  #firefox: "23.0"
+  firefox: "24.0"
 #firefox: "25.0"
 #firefox: "26.0"
 #firefox: "27.0"
