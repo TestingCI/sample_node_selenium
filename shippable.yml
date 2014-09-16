@@ -6,8 +6,8 @@ node_js:
 addons:
   # firefox: "23.0"
    #firefox: "17.0"
-   firefox: "18.0"
-  # firefox: "19.0"
+  # firefox: "18.0"
+   firefox: "19.0"
    #firefox: "20.0"
    #firefox: "21.0"
    # firefox: "22.0"
@@ -30,6 +30,5 @@ before_script:
   - "/etc/init.d/xvfb start"
   - firefox --version
 
-script:
-  - echo $var
+
 
