@@ -7,7 +7,7 @@ addons:
     #firefox: "30.0"
    # firefox: "23.0"
    # firefox: "17.0"
-     firefox: "18.0"
+   #  firefox: "18.0"
      #firefox: "19.0"
      #firefox: "20.0"
      #firefox: "21.0"
@@ -21,7 +21,7 @@ addons:
      #firefox: "28.0"
      #firefox: "32.0"
     # firefox: "31.0"
-    #firefox: "30.0"
+    firefox: "30.0"
 
 services:
   - selenium
